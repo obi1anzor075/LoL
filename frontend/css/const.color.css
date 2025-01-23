@@ -1,4 +1,12 @@
 :root {
-  --main-color: red;
-  --sec-color: 
+  --interface-color:#d7557b;
+  --main-color:#df7891;
+  --card-color:#e8a7bb;
+  --btn-color:#3EB489;
+  --btn-hover:#5ccaa2;
+  --btn-active:#99d9c2;
+  --font-strong-color: #FFD700;
+  --font-color: #FFF8E7;
+  --link-hover: #00000050;
+  --link-active: #00000075;
 }
